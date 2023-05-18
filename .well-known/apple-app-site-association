@@ -1,8 +1,15 @@
 {
     "applinks": {
-    },
-    "webcredentials": {
-    },
+      "details": [
+           {
+             "appIDs": ["XP5293KE77.com.agredo.iou.app"],
+             "components": []
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": ["XP5293KE77.com.agredo.iou.app"]
+   },
     "appclips": {
         "app" : ["XP5293KE77.com.agredo.iou.Clip"]
     }
