@@ -10,6 +10,6 @@
       "apps": ["XP5293KE77.com.agredo.iou"]
    },
     "appclips": {
-        "app" : ["XP5293KE77.com.agredo.iou.Clip"]
+        "apps" : ["XP5293KE77.com.agredo.iou.Clip"]
     }
 }
